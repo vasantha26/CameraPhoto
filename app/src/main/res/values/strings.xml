@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidPhoto</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="gallery_photo">Gallery Photo</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="take_from_photo">Take from Photo </string>
+</resources>
